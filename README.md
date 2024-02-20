@@ -1,1 +1,1 @@
-A pacman that plays by itself by using each search algoritm.
+A pacman that plays by itself by using each search algoritm. Each zip contains different methods.
